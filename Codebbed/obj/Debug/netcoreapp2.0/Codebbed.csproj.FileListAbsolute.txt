@@ -1,0 +1,11 @@
+F:\Codebbed\Codebbed\Codebbed\bin\Debug\netcoreapp2.0\Codebbed.deps.json
+F:\Codebbed\Codebbed\Codebbed\bin\Debug\netcoreapp2.0\Codebbed.runtimeconfig.json
+F:\Codebbed\Codebbed\Codebbed\bin\Debug\netcoreapp2.0\Codebbed.runtimeconfig.dev.json
+F:\Codebbed\Codebbed\Codebbed\bin\Debug\netcoreapp2.0\Codebbed.dll
+F:\Codebbed\Codebbed\Codebbed\bin\Debug\netcoreapp2.0\Codebbed.pdb
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.csprojResolveAssemblyReference.cache
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.csproj.CoreCompileInputs.cache
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.AssemblyInfoInputs.cache
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.AssemblyInfo.cs
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.dll
+F:\Codebbed\Codebbed\Codebbed\obj\Debug\netcoreapp2.0\Codebbed.pdb
